@@ -1,5 +1,5 @@
 {
-    "name": "com.unity.2d.triangle.EditorTests",
+    "name": "Unity.2D.Triangle.EditorTests",
     "references": [],
     "optionalUnityReferences": [
         "TestAssemblies"
